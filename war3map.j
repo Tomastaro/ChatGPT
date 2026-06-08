@@ -873,6 +873,7 @@ integer array ZS_CheatStep
 boolean array ZS_MapOn
 integer array ZS_LevelStep
 boolean array ZS_UpgradeOn
+unit array ZS_Selected
 trigger ZS_KeyLeft = null
 trigger ZS_KeyDown = null
 trigger ZS_KeyRight = null
